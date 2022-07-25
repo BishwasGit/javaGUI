@@ -1,5 +1,5 @@
 # javaGUI
 -----------------------------------------------------
 <li>Simple GUI in java for checking username and password</li>
-Explained with comments
-Feel free to download 
+<li>Explained with comments</li>
+<li>Feel free to download</li>
